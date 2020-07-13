@@ -5,3 +5,4 @@ Specification for the Avocado programming language.
 
 - Standard syntax and procedures
 - Standard errors
+- Examples of Avo code
